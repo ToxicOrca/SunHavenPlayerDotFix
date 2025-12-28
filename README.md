@@ -55,6 +55,7 @@ BepInEx/plugins/SunHavenMapPlayerDotFix/
 - Minor position offsets may vary slightly in small sub-areas due to how Sun Haven scales map sprites.
 - This mod does not modify any game files and is safe to remove at any time.
 - This mod will probably not be needed for long as the Developers will hopefully fix it.
+- This mod was only tested in single player.
 
 ## License
 MIT
