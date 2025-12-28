@@ -4,6 +4,8 @@ A small **BepInEx** mod that restores the missing player position dot on the wor
 
 This is a lightweight workaround for a UI issue introduced in recent updates where the player marker no longer appears on the map.
 
+![Player dot restored on the map](SHPDF_Screenshot.png)
+
 ---
 
 ## Features
